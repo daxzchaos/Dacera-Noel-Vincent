@@ -1,22 +1,20 @@
 # My-Milestones
 A collection of my certifications, achievements, and completed courses as I continue to learn and grow professionally.
 
-# My-Milestones
 
-A collection of my certifications, achievements, and completed courses as I continue to learn and grow professionally.[cite: 2]
 
 ---
 
 ## 🛡️ Cybersecurity & Networking Certifications
 
-| Certification / Course Title | Issuer | Issued Date | Link / Verification |
+| Certification / Course Title | Issuer | Status | View Certificate |
 | :--- | :--- | :--- | :--- |
-| **Introduction to Cybersecurity** | Cisco Networking Academy | Sep 15, 2026[cite: 1] | [🔗 View Badge / Certificate](https://www.netacad.com/profile/tab-badges)[cite: 1] |
-| **Installing and Configuring Computer Systems** | TESDA / Training Institution | — | [📄 View Certificate](./certs/installing-and-configuring.pdf) |
-| **Introduction to Computer Systems Servicing** | TESDA / Training Institution | — | [📄 View Certificate](./certs/intro-to-css.pdf) |
-| **Maintaining Computer Systems and Networks** | TESDA / Training Institution | — | [📄 View Certificate](./certs/maintaining-systems.pdf) |
-| **Setting Up Computer Networks** | TESDA / Training Institution | — | [📄 View Certificate](./certs/setting-up-networks.pdf) |
-| **Setting Up Computer Servers** | TESDA / Training Institution | — | [📄 View Certificate](./certs/setting-up-servers.pdf) |
+| **Introduction to Cybersecurity** | Cisco Networking Academy | Completed (Sep 2026) | [📄 View PDF](./Introduction_to_Cybersecurity_certificate_daxzchaos09-gmail-com_cdab8616-1597-484a-bd4c-5b2109ac63ac.pdf) |
+| **Installing and Configuring Computer Systems** | Training / Academy | Completed | [📄 View PDF](./Certificate_of_Completion_NEW%20(2).pdf) |
+| **Introduction to Computer Systems Servicing** | Training / Academy | Completed | [📄 View PDF](./Certificate_of_Completion%20(1).pdf) |
+| **Maintaining Computer Systems and Networks** | Training / Academy | Completed | [📄 View PDF](./Certificate_of_Completion_NEW%20(1).pdf) |
+| **Setting Up Computer Networks** | Training / Academy | Completed | [📄 View PDF](./Certificate_of_Completion.pdf) |
+| **Setting Up Computer Servers** | Training / Academy | Completed | [📄 View PDF](./Certificate_of_Completion_NEW.pdf) |
 
 ---
 
