@@ -4,7 +4,7 @@ A collection of my certifications, achievements, and completed courses as I cont
 
 ---
 
-## 🛡️ Cybersecurity & Networking Certifications
+##  Cybersecurity & Networking Certifications
 
 | Certification / Course Title | Issuer | Status | View Certificate |
 | :--- | :--- | :--- | :--- |
@@ -12,7 +12,7 @@ A collection of my certifications, achievements, and completed courses as I cont
 
 ---
 
-## 💻 Computer Systems Servicing (CSS) — TESDA
+##  Computer Systems Servicing (CSS) — TESDA
 
 | Module Title | Issuer | Status | View Certificate |
 | :--- | :--- | :--- | :--- |
@@ -24,19 +24,19 @@ A collection of my certifications, achievements, and completed courses as I cont
 
 ---
 
-## 🛠️ Skills Learned & Core Competencies
+##  Skills Learned & Core Competencies
 
-### 🔒 Cybersecurity Foundations
+###  Cybersecurity Foundations
 * **Threat & Vulnerability Analysis:** Understanding common cyber attacks, malware, phishing, and security threats.
 * **Data Privacy & Protection:** Basics of confidentiality, integrity, and availability (CIA Triad), plus password management and safe browsing practices.
 * **Network Defense:** Introductory knowledge of firewalls, wireless security, and basic incident handling.
 
-### 🖥️ Computer Systems Servicing & Hardware
+###  Computer Systems Servicing & Hardware
 * **Hardware Assembly & Configuration:** Assembling PC components, motherboard layout identification, RAM/storage installation, and BIOS/UEFI configuration.
 * **OS Installation & Setup:** Installing Windows and Linux operating systems, device drivers, and system updates.
 * **System Diagnostics & Maintenance:** Troubleshooting hardware and software failures, executing system restore/backups, and performing preventative maintenance.
 
-### 🌐 Networking & Server Administration
+###  Networking & Server Administration
 * **Network Design & Cabling:** Crimping Ethernet cables (RJ45, T568A/B), testing network connections, and designing basic LAN topologies.
 * **Network Configuration:** Configuring routers, switches, IP addressing (IPv4/IPv6), subnetting, and DHCP/DNS settings.
 * **Server Setup & Management:** Installing and configuring server OS (Active Directory, Domain Controllers, User Accounts, and File/Print Sharing Permissions).
